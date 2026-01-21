@@ -55,7 +55,7 @@ pytest
 
 Tests verify that:
 - Authentication to Kubernetes cluster works
-- API calls to list nodes and pods succeed
+- Some of the API calls to list nodes and pods succeed
 
 Tests gracefully skip if the cluster is not reachable.
 

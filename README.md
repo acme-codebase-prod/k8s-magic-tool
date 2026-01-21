@@ -1,4 +1,4 @@
-# k8s-magic-tool
+# k8s-magic-tool 🪄✨⚙️
 
 A simple Kubernetes inventory collection tool that collects nodes, pods, containers, and optionally running processes from a Kubernetes cluster.
 

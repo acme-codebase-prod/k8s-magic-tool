@@ -2,6 +2,8 @@ name: k8s-magic inventory tests
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
 
 jobs:
   inventory-test:
